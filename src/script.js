@@ -43,7 +43,7 @@ class AutoSlider extends Slider {
 // slider.play();
 
 export {Slider,AutoSlider,button}; //экспорт нескольких методов.
-export default Slider; //экспорт по умолчанию. Только один по умолчанию
+// export default Slider; //экспорт по умолчанию. Только один по умолчанию
 
 
 
