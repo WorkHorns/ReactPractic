@@ -1,0 +1,1 @@
+(()=>{"use strict";new class{constructor(o,t,s){this.widht=o,this.height=t,this.count=s}nestSlide(){console.log("Move")}prevSlide(){console.log("Back")}whoAmI(){console.log(`Я толще на ${this.widht},и выше на ${this.height},и мое любимое число ${this.count}`)}}(123,123,24).whoAmI(),console.log("button")})();
